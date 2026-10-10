@@ -1,0 +1,6 @@
+{
+  "name": "EcoNexi - Smart Manufacturing & Waste Reduction",
+  "description": "Smart sustainability and operational efficiency platform for small and medium-sized manufacturing enterprises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
